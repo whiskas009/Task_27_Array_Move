@@ -1,0 +1,8 @@
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_27_Array_Move\Task_27_Array_Move\bin\Debug\Task_27_Array_Move.exe.config
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_27_Array_Move\Task_27_Array_Move\bin\Debug\Task_27_Array_Move.exe
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_27_Array_Move\Task_27_Array_Move\bin\Debug\Task_27_Array_Move.pdb
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_27_Array_Move\Task_27_Array_Move\obj\Debug\Task_27_Array_Move.csproj.AssemblyReference.cache
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_27_Array_Move\Task_27_Array_Move\obj\Debug\Task_27_Array_Move.csproj.SuggestedBindingRedirects.cache
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_27_Array_Move\Task_27_Array_Move\obj\Debug\Task_27_Array_Move.csproj.CoreCompileInputs.cache
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_27_Array_Move\Task_27_Array_Move\obj\Debug\Task_27_Array_Move.exe
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_27_Array_Move\Task_27_Array_Move\obj\Debug\Task_27_Array_Move.pdb
